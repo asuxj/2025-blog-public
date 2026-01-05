@@ -25,16 +25,24 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1767613145589",
+			"url": "https://img.qlqqs.com/randompc"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "url-1767613145589",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1767613121540",
+			"url": "https://img.qlqqs.com/random"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1767613121540",
 	"socialButtons": [
 		{
 			"id": "github",
