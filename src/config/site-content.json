@@ -15,7 +15,7 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#1c1b1e"
 	],
 	"artImages": [
 		{
@@ -27,7 +27,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -58,14 +58,14 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
-	"hatFlipped": false,
-	"enableChristmas": false,
+	"hatFlipped": true,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
